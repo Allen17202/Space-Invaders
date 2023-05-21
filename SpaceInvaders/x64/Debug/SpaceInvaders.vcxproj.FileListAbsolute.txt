@@ -1,0 +1,11 @@
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\SpaceInvaders.vcxproj.CopyComplete
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\SpaceInvaders.exe
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\sfml-graphics-d-2.dll
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\sfml-window-d-2.dll
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\sfml-system-d-2.dll
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\freetyped.dll
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\zlibd1.dll
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\bz2d.dll
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\libpng16d.dll
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\brotlidec.dll
+C:\Dev\Students\CH19\Greg.Allen\Prog1\source\SpaceInvaders\x64\Debug\brotlicommon.dll
